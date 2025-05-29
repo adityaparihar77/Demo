@@ -72,9 +72,7 @@ export default function Home() {
               <Button size="lg" className="w-full sm:w-auto bg-green-600 hover:bg-green-700">
                 Book a Free Consultation
               </Button>
-              <Button size="lg" variant="outline" className="w-full sm:w-auto border-white text-white hover:bg-white/20">
-                <Phone className="mr-2 h-4 w-4" /> Call Us: +1 (518) 947-8858
-              </Button>
+            
             </div>
           </div>
         </section>
